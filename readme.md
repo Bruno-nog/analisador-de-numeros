@@ -19,7 +19,7 @@ O projeto se trata de um analisador de números. Colocando qualquer número de 1
 
 ### Links
 
-[Site do Projeto](https://bruno-nog.github.io/tabuada-js/)
+[Site do Projeto](https://bruno-nog.github.io/analisador-de-numeros/)
 
 
 ### Feito com:
